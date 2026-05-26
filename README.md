@@ -4,9 +4,6 @@
 Speaker Booking App is a mobile application UI/UX design developed to simplify the process of finding and booking professional speakers such as public speakers and comedians.
 
 ## Screenshot
-Add project screenshots here
-
-Example:
 <img width="8190" height="854" alt="speaker png" src="https://github.com/user-attachments/assets/dba26666-abf9-498c-91b1-eebe4ef0df9e" />
 
 ## Tech Stack

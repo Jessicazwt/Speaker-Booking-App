@@ -1,2 +1,34 @@
-# Speaker-Booking-App
-UI/UX design for a mobile application that helps users find and book professional speakers easily.
+# Speaker Booking App
+
+## Description
+Speaker Booking App is a mobile application UI/UX design developed to simplify the process of finding and booking professional speakers such as public speakers and comedians.
+
+## Screenshot
+Add project screenshots here
+
+Example:
+![Home](img/home.png)
+![Speaker List](img/speaker-list.png)
+
+## Tech Stack
+- Figma
+- UI Design
+- UX Design
+- Wireframing
+- Prototyping
+
+## Features
+- Browse speakers
+- Speaker details
+- Booking process
+- Search functionality
+- Simple navigation
+
+## Figma Design
+https://www.figma.com/design/VCkkWtDatzZlXDO5Eatl0k/Sewa-Pembicara?node-id=0-1&t=Lghu3zDccnszBL7S-1
+
+## How to Run Project
+1. Open Figma link
+2. Open prototype mode
+3. Click Present
+4. Explore the user flow
